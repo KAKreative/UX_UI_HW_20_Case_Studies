@@ -1,0 +1,21 @@
+
+ .logo{
+  height: 60px;
+  width: 60px;
+
+ }
+body{
+  background:#71C5BD!important;
+  padding-top: 120px; /* add padding to move the body below the fixed top nav bar*/
+ }
+ .btn-primary {
+  background: #71C5BD;
+  color: #000000;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+  background: #747879;
+}
+.bg-info {
+background-color: #000000!important;
+}
+
